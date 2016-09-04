@@ -43,7 +43,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[tekstosense-url]: https://www.tekstosesne.com
+[tekstosense-url]: https://www.tekstosense.com
 [tekstosense-demo]: https://www.tekstosense.com
 [tekstosense-logo]: http://i.imgur.com/4jyQQAZ.png
 [Esperanto]: https://en.wikipedia.org/wiki/Esperanto
