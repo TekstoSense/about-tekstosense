@@ -10,8 +10,8 @@ We want our users to focus on their market proposition and differentiation and w
 
 - [**Features**](#features)
 - [**Why TekstoSense?**](#why-tekstosense)
+- [**API**](#API)
 - [**Roadmap**](#roadmap)
-- [**Product**](#product)
 - [**Enterprise Support & Demo**](#enterprise-support--demo)
 - [**License**](#license)
 
@@ -38,15 +38,21 @@ Have you ever faced twin tombstone problems of text analytics area i.e. accuracy
 - If you ever hesitated to use unsupervised algorithm based solution into your product due to unsatisfactory accuracy then  simply forget the past and forge toward the TekstoSense. It provides high accuracy for its algorithms and APIs.
  TekstoSense provides usecase centric APIs.
 
+## API
+
+- **pdf-segmenter** : Unsupervised algorithm for identifying pdf segment. 
+- **opennlp-enhancer** : Extended opennlp framework with main focus on memory optimization and NER support
+- **word-root-finder** : Personalised word root finder
+
 ## Roadmap
 
 You can find a detailed Roadmap of TekstoSense on the [Wiki](https://github.com/TekstoSense/about-tekstosense/wiki).
 
 
+## Enterprise Support & Demo
 
-
-
-
+All our APIs are hosted as REST-Service on google cloud for user verification. Batch mode APIs are only available on request.
+[Demo] (https://www.google.co.in)
 
 ## License
 
