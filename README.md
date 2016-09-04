@@ -27,7 +27,7 @@ Have you ever faced twin tombstone problems of text analytics area i.e. accuracy
 - **Performance**: TekstoSense APIs handles load with ease by scaling the core.
 - **Dependency**: Simple to use with minimal dependencies.
 - **Distribution**: Single Node APIs with Apache license and Batch Mode APIs with Commercialised license.
-- **Deployable**: Deployed on google cloud with [kubernate][http://kubernetes.io/]. Plug and play for on-premise or cloud distribution.
+- **Deployable**: Deployed on google cloud with [kubernate](http://kubernetes.io/). Plug and play for on-premise or cloud distribution.
 
 
 
