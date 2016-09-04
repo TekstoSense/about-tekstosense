@@ -1,5 +1,7 @@
 # TekstoSense | Text Sense Simplified
 
+[![Join the chat at https://gitter.im/about-tekstosense/Lobby](https://badges.gitter.im/about-tekstosense/Lobby.svg)](https://gitter.im/about-tekstosense/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Do you know our website name [TekstoSense][tekstosense-url] is derived using Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) network: a special type of RNN? Is it not fun ? Yes it is.
 Teksto in [Esperanto][Esperanto] means Text. Tekstosense is one stop apis hub for all the text analytics need. 
 We want our users to focus on their market proposition and differentiation and we provides all possible building blocks for text analytics ecosystem to reduce their time to market.
