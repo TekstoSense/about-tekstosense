@@ -9,7 +9,7 @@ We want our users to focus on their market proposition and differentiation and w
 - [**Features**](#features)
 - [**Why TekstoSense?**](#why-kong)
 - [**Roadmap**](#roadmap)
-- [**Development**](#development)
+- [**Product**](#product)
 - [**Enterprise Support & Demo**](#enterprise-support--demo)
 - [**License**](#license)
 
@@ -36,7 +36,9 @@ Have you ever faced twin tombstone problems of text analytics area i.e. accuracy
 - If you ever hesitated to use unsupervised algorithm based solution into your product due to unsatisfactory accuracy then  simply forget the past and forge toward the TekstoSense. It provides high accuracy for its algorithms and APIs.
  TekstoSense provides usecase centric APIs.
 
+## Roadmap
 
+You can find a detailed Roadmap of TekstoSense on the [Wiki](https://github.com/TekstoSense/about-tekstosense/wiki).
 
 
 
