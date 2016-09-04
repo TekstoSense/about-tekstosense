@@ -7,7 +7,7 @@ We want our users to focus on their market proposition and differentiation and w
 ## Summary
 
 - [**Features**](#features)
-- [**Why TekstoSense?**](#why-kong)
+- [**Why TekstoSense?**](#why-tekstosense)
 - [**Roadmap**](#roadmap)
 - [**Product**](#product)
 - [**Enterprise Support & Demo**](#enterprise-support--demo)
