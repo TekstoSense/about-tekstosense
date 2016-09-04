@@ -1,7 +1,7 @@
 # TekstoSense | Text Sense Simplified
 
-Teksto in [Esperanto][Esperanto] means Text. Tekstosense is one stop apis hub for all the text analytics need. 
 Do you know our website name [TekstoSense][tekstosense-url] is derived using Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) network: a special type of RNN? Is it not fun ? Yes it is.
+Teksto in [Esperanto][Esperanto] means Text. Tekstosense is one stop apis hub for all the text analytics need. 
 We want our users to focus on their market proposition and differentiation and we provides all possible building blocks for text analytics ecosystem to reduce their time to market.
 
 ## Summary
@@ -29,7 +29,7 @@ Have you ever faced twin tombstone problems of text analytics area i.e. accuracy
 - **Distribution**: Single Node APIs with Apache license and Batch Mode APIs with Commercialised license.
 - **Deployable**: Deployed on google cloud with [kubernate](http://kubernetes.io/). Plug and play for on-premise or cloud distribution.
 
-
+## Why TekstoSense?
 
 
 
