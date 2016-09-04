@@ -1,8 +1,8 @@
 # TekstoSense | Text Analytics Simplified
 
 Teksto in [Esperanto][Esperanto] means Text. Tekstosense is one stop hub for all text analytics need. 
-Do you know our [website][tekstosense-url] name itself is derived using Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) network: a special type of RNN? Is it not fun ? Yes it is.
-We want to make implementation of text analytics a fun for all those users who want to seriously differentiate their product with others.
+Do you know our website name [TekstoSense][tekstosense-url] is derived using Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) network: a special type of RNN? Is it not fun ? Yes it is.
+We want our users to focus on their market proposition and differentiation and we provides all possible building blocks for text analytics ecosystem to reduce their time to market.
 
 ## Summary
 
@@ -12,6 +12,8 @@ We want to make implementation of text analytics a fun for all those users who w
 - [**Development**](#development)
 - [**Enterprise Support & Demo**](#enterprise-support--demo)
 - [**License**](#license)
+
+## Features
 
 
 
