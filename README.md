@@ -40,9 +40,9 @@ Have you ever faced twin tombstone problems of text analytics area i.e. accuracy
 
 ## API
 
-- **pdf-segmenter** : Unsupervised algorithm for identifying pdf segment. 
-- **opennlp-enhancer** : Extended opennlp framework with main focus on memory optimization and NER support
-- **word-root-finder** : Personalised word root finder
+- [**pdf-segmenter**](https://github.com/TekstoSense/pdf-segmenter) : Unsupervised algorithm for identifying pdf segment. 
+- [**opennlp-enhancer**](https://github.com/TekstoSense/opennlp-enhancer) : Extended opennlp framework with main focus on memory optimization and NER support
+- [**word-root-finder**](https://github.com/TekstoSense/word-root-finder) : Personalised word root finder
 
 ## Roadmap
 
