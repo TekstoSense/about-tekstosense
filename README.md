@@ -15,7 +15,7 @@ We want our users to focus on their market proposition and differentiation and w
 
 ## Features
 
-Have you ever faced twin tombstone problems of text analytics area i.e. accuracy and speed? Have you ever looked for free production grade text analytics APIs which performs out the box and satisfies your need? If your answer is yes your search ends here. TekstoSense is a suit of text analytics APIs which is based on unsupervised, semi-supervised and supervised machine learning algorithms. As unsupervised algorithms are not highly accurate we emphasised on high accuracy of our algorithms and APIs. 
+Have you ever faced twin tombstone problems of text analytics area i.e. accuracy and speed? Have you ever looked for free production grade text analytics APIs which performs out the box and satisfies your need? If your answer is yes your search ends here. TekstoSense is a suit of text analytics APIs which is based on unsupervised, semi-supervised and supervised machine learning algorithms. 
 
 - **CLI**: Control your TekstoSense APIs from the command line just like Neo in The
   Matrix.
@@ -26,12 +26,17 @@ Have you ever faced twin tombstone problems of text analytics area i.e. accuracy
   adding nodes. Processing layer is based on Spark.
 - **Performance**: TekstoSense APIs handles load with ease by scaling the core.
 - **Dependency**: Simple to use with minimal dependencies.
-- **Distribution**: Single Node APIs with Apache license and Batch Mode APIs with Commercialised license.
+- **Distribution**: Single Mode APIs with Apache license and Batch Mode APIs with Commercialised license.
 - **Deployable**: Deployed on google cloud with [kubernate](http://kubernetes.io/). Plug and play for on-premise or cloud distribution.
 
 ## Why TekstoSense?
 
+We generally use [Opennlp](https://opennlp.apache.org/) or [Stanford NLP](http://stanfordnlp.github.io/CoreNLP/) or [LingPipe](http://alias-i.com/lingpipe/) or [NLTK](http://www.nltk.org/) for our text analytics need but these are just enablers framework not an out of the box APIs framework to build use cases. Similarly we have lots of Deep-Learning frameowrk. To build our use cases we need to build bridge between two columns NLP at one side and Machine Learning at other side. This slows down our time to market. TekstoSense bridge that gap and provides ready to use text analytics API.
 
+
+
+If you ever hesitated to use unsupervised algorithm based solution into your product due to unsatisfactory accuracy then simply forget the past and forge toward the TekstoSense. We provides high accuracy for our algorithm and APIs.
+We provides usecase driven APIs
 
 
 
