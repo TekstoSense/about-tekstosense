@@ -33,8 +33,8 @@ Have you ever faced twin tombstone problems of text analytics area i.e. accuracy
 
 - We generally use [Opennlp](https://opennlp.apache.org/) or [Stanford NLP](http://stanfordnlp.github.io/CoreNLP/) or [LingPipe](http://alias-i.com/lingpipe/) or [NLTK](http://www.nltk.org/) for our text analytics need but these are just enablers framework not an out of the box APIs framework to build use cases. Similarly we have lots of Deep-Learning frameowrk. To develop use cases we need to build bridges between two pillars of text analytics , NLP at one side and Machine Learning at the other side. TekstoSense bridge that gap and provides ready to use text analytics API.
 
-- If you ever hesitated to use unsupervised algorithm based solution into your product due to unsatisfactory accuracy then  simply forget the past and forge toward the TekstoSense. We provides high accuracy for our algorithm and APIs.
- TekstoSense provides usecase driven APIs
+- If you ever hesitated to use unsupervised algorithm based solution into your product due to unsatisfactory accuracy then  simply forget the past and forge toward the TekstoSense. It provides high accuracy for its algorithms and APIs.
+ TekstoSense provides usecase centric APIs.
 
 
 
