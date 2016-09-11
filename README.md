@@ -10,7 +10,7 @@ We want our users to focus on their market proposition and differentiation and w
 
 - [**Features**](#features)
 - [**Why TekstoSense?**](#why-tekstosense)
-- [**API**](#API)
+- [**API**](#api)
 - [**Roadmap**](#roadmap)
 - [**Enterprise Support & Demo**](#enterprise-support--demo)
 - [**License**](#license)
@@ -52,7 +52,7 @@ You can find a detailed Roadmap of TekstoSense on the [Wiki](https://github.com/
 ## Enterprise Support & Demo
 
 All our APIs are hosted as REST-Service on google cloud for user verification. Batch mode APIs are only available on request.
-[Demo] (https://www.google.co.in)
+[Demo] (http://apis.tekstosense.com)
 
 ## License
 
